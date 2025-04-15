@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/RND/ESP32_ESP-IDF/Blink_led/build/CMakeFiles/bootloader
+D:/RND/ESP32_ESP-IDF/Blink_led/build/CMakeFiles/bootloader.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/CMakeFiles/bootloader-complete.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/RND/ESP32_ESP-IDF/Blink_led/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
